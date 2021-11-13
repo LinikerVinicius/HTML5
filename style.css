@@ -1,0 +1,57 @@
+
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.post{
+background-color: darkgray;
+padding: 10px;
+border: black;
+margin: 10px;
+}
+
+
+
+#title, .subtitle, .post_title{
+    color: rgb(252, 6, 6);
+}
+.post_title{
+    color: rgb(8, 8, 8);
+}
+#title, .subtitle{
+    margin: 10px;
+}
+
+#title{
+    font-size: 55px;
+    font-style: oblique;
+    margin: auto;
+    text-align: center;
+}
+.subtitle{
+    font-size: 35px;
+    font-style: oblique;
+    margin: auto;
+    text-align: center;
+}
+.post_title {
+    font-size: 35px;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+    }
+
+.post_img{
+
+    width: 100%;
+    margin: auto;
+    
+}
+
+.post_img2{
+
+    
+}
